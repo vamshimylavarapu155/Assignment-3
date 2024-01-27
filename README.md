@@ -2,7 +2,7 @@
 
 Link for the recording: 
 
-Create a class Employee and then do the following • Create a data member to count the number of Employees • Create a constructor to initialize name, family, salary, department • Create a function to average salary • Create a Fulltime Employee class and it should inherit the properties of Employee class • Create the instances of Fulltime Employee class and Employee class and call their member functions.
+1. Create a class Employee and then do the following • Create a data member to count the number of Employees • Create a constructor to initialize name, family, salary, department • Create a function to average salary • Create a Fulltime Employee class and it should inherit the properties of Employee class • Create the instances of Fulltime Employee class and Employee class and call their member functions.
 class Employee: no_of_employees = 0
 
 def __init__(self, name, family_name, salary, department):
@@ -41,7 +41,7 @@ if name == "main": main()
 
 This program defines two classes: Employee and FulltimeEmployee, where FulltimeEmployee inherits from Employee. It also demonstrates how to create instances of both classes and call their member functions as specified in your requirements.
 
-Numpy Using NumPy create random vector of size 20 having only float in the range 1-20. Then reshape the array to 4 by 5 Then replace the max in each row by 0 (axis=1) (you can NOT implement it via for loop)
+  2.  Numpy Using NumPy create random vector of size 20 having only float in the range 1-20. Then reshape the array to 4 by 5 Then replace the max in each row by 0 (axis=1) (you can NOT implement it via for loop)
 import numpy as np
 
 x = np.random.uniform(1, 20, 20) print("Original Array: ", x)
