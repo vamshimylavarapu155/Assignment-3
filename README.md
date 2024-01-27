@@ -1,6 +1,6 @@
 # 700759652- ASSIGNMENT-VAMSHI-MYLAVARAPU
 
-Link for the recording: 
+Link for the recording: https://drive.google.com/drive/u/1/home
 
 1. Create a class Employee and then do the following • Create a data member to count the number of Employees • Create a constructor to initialize name, family, salary, department • Create a function to average salary • Create a Fulltime Employee class and it should inherit the properties of Employee class • Create the instances of Fulltime Employee class and Employee class and call their member functions.
 class Employee: no_of_employees = 0
